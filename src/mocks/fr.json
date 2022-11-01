@@ -1,0 +1,268 @@
+{
+  "data": [
+    {
+      "city": "Paris",
+      "lat": "48.8566",
+      "lng": "2.3522",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Île-de-France",
+      "capital": "primary",
+      "population": "11020000",
+      "population_proper": "2148271"
+    },
+    {
+      "city": "Nice",
+      "lat": "43.7034",
+      "lng": "7.2663",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Provence-Alpes-Côte d’Azur",
+      "capital": "minor",
+      "population": "1006402",
+      "population_proper": "341032"
+    },
+    {
+      "city": "Toulouse",
+      "lat": "43.6045",
+      "lng": "1.4440",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Occitanie",
+      "capital": "admin",
+      "population": "968638",
+      "population_proper": "486828"
+    },
+    {
+      "city": "Marseille",
+      "lat": "43.2964",
+      "lng": "5.3700",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Provence-Alpes-Côte d’Azur",
+      "capital": "admin",
+      "population": "870018",
+      "population_proper": "868277"
+    },
+    {
+      "city": "Rennes",
+      "lat": "48.1147",
+      "lng": "-1.6794",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Bretagne",
+      "capital": "admin",
+      "population": "727357",
+      "population_proper": "217728"
+    },
+    {
+      "city": "Nantes",
+      "lat": "47.2181",
+      "lng": "-1.5528",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Pays de la Loire",
+      "capital": "admin",
+      "population": "633690",
+      "population_proper": "314138"
+    },
+    {
+      "city": "Montpellier",
+      "lat": "43.6119",
+      "lng": "3.8772",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Occitanie",
+      "capital": "minor",
+      "population": "607896",
+      "population_proper": "290053"
+    },
+    {
+      "city": "Lyon",
+      "lat": "45.7600",
+      "lng": "4.8400",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Auvergne-Rhône-Alpes",
+      "capital": "admin",
+      "population": "516092",
+      "population_proper": "516092"
+    },
+    {
+      "city": "Strasbourg",
+      "lat": "48.5833",
+      "lng": "7.7458",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Grand Est",
+      "capital": "admin",
+      "population": "465069",
+      "population_proper": "284677"
+    },
+    {
+      "city": "Bordeaux",
+      "lat": "44.8400",
+      "lng": "-0.5800",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Nouvelle-Aquitaine",
+      "capital": "admin",
+      "population": "257804",
+      "population_proper": "257068"
+    },
+    {
+      "city": "Le Havre",
+      "lat": "49.4900",
+      "lng": "0.1000",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Normandie",
+      "capital": "minor",
+      "population": "235218",
+      "population_proper": "169733"
+    },
+    {
+      "city": "Lille",
+      "lat": "50.6278",
+      "lng": "3.0583",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Hauts-de-France",
+      "capital": "admin",
+      "population": "232787",
+      "population_proper": "232787"
+    },
+    {
+      "city": "Reims",
+      "lat": "49.2628",
+      "lng": "4.0347",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Grand Est",
+      "capital": "minor",
+      "population": "182460",
+      "population_proper": "182211"
+    },
+    {
+      "city": "Saint-Étienne",
+      "lat": "45.4347",
+      "lng": "4.3903",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Auvergne-Rhône-Alpes",
+      "capital": "minor",
+      "population": "172565",
+      "population_proper": "172565"
+    },
+    {
+      "city": "Toulon",
+      "lat": "43.1258",
+      "lng": "5.9306",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Provence-Alpes-Côte d’Azur",
+      "capital": "minor",
+      "population": "171953",
+      "population_proper": "171953"
+    },
+    {
+      "city": "Dijon",
+      "lat": "47.3167",
+      "lng": "5.0167",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Bourgogne-Franche-Comté",
+      "capital": "admin",
+      "population": "156920",
+      "population_proper": "156854"
+    },
+    {
+      "city": "Angers",
+      "lat": "47.4736",
+      "lng": "-0.5542",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Pays de la Loire",
+      "capital": "minor",
+      "population": "152960",
+      "population_proper": "152960"
+    },
+    {
+      "city": "Nîmes",
+      "lat": "43.8380",
+      "lng": "4.3610",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Occitanie",
+      "capital": "minor",
+      "population": "151001",
+      "population_proper": "149633"
+    },
+    {
+      "city": "Le Mans",
+      "lat": "48.0077",
+      "lng": "0.1984",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Pays de la Loire",
+      "capital": "minor",
+      "population": "142946",
+      "population_proper": "142946"
+    },
+    {
+      "city": "Aix-en-Provence",
+      "lat": "43.5263",
+      "lng": "5.4454",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Provence-Alpes-Côte d’Azur",
+      "capital": "minor",
+      "population": "142482",
+      "population_proper": "142482"
+    },
+    {
+      "city": "Dunkerque",
+      "lat": "51.0383",
+      "lng": "2.3775",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Hauts-de-France",
+      "capital": "minor",
+      "population": "87353",
+      "population_proper": "86865"
+    },
+    {
+      "city": "Versailles",
+      "lat": "48.8053",
+      "lng": "2.1350",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Île-de-France",
+      "capital": "minor",
+      "population": "85862",
+      "population_proper": "85205"
+    },
+    {
+      "city": "Cannes",
+      "lat": "43.5513",
+      "lng": "7.0128",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Provence-Alpes-Côte d’Azur",
+      "capital": "",
+      "population": "73868",
+      "population_proper": "73868"
+    },
+    {
+      "city": "Grenoble",
+      "lat": "45.1715",
+      "lng": "5.7224",
+      "country": "France",
+      "iso2": "FR",
+      "admin_name": "Auvergne-Rhône-Alpes",
+      "capital": "minor",
+      "population": "687985",
+      "population_proper": "157650"
+    }
+  ]
+}
