@@ -24,7 +24,7 @@ const useGetCities = (): UseQueryResult<CitiesResponseAttr> => {
   return useQuery({
     queryKey: ["cities"],
     queryFn: async () => {
-      const response = await fetch("./src/mocks/fr.json");
+      const response = await fetch("./fr.json");
       const parsedResponse = await response.json();
 
       return parsedResponse.data;
